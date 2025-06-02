@@ -1,0 +1,7 @@
+name: enderchest_portal
+version: '1.0.0'
+main: org.tp211.enderchest_portal.PlugMain
+api-version: '1.20'
+load: STARTUP
+authors: [ TP211 ]
+description: EnderChest Portal
